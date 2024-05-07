@@ -1,0 +1,1 @@
+dzień dobry, miejsce do popisu dla was, z góry dzięki za feedback
