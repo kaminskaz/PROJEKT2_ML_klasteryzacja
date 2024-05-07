@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-film-statistics-d
 - Mikołaj Guzik
 - Krzysztof Adamczyk
 ### Walidatorzy:
-- Natalia Choszczyk
-- Bartek Borycki
+- Karolina Dunal
+- Miłosz Chodań
 
-(my walidujemy zespół Karoliny i Miłosza jak coś)
+(my walidujemy zespół Natalki i Bartka jak coś)
