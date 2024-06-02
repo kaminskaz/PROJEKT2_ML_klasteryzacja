@@ -30,3 +30,16 @@ do KM2_M (kontynuacja KM2_Z i guess)
 ![alt text](image.png) 
 u nas ciekawie wyszlo na walidacyjnym
 - to tsne na v1 to isntne konfetti
+
+KM3
+- rozwazaliscie moze 5 klastrow? tez wygladaja jakby mogly byc ok wyborem z lokci
+- duzo modeli sprawdzonych wiec fajnie
+- probowaliscie dodac jakos tytuly wykresow do tych 3d? bo jak sie tyle otwiera na raz w przegladarce to idzie sie zgubic co jest co
+- czy macie pomysly czm mean shift moze miec taki slaby wynik dla calinski harabiasz score a dla pozostalych 2 bardzo spk?
+- affinity i optics wam sie zlewaja w jeden napis na wykresie slupkowym - komorka 21
+- moze wywalcie ta czerwona prosta z pozniejszy wykresow dbscan szukajacych eps
+- calculate_best_model(scores_df3) - fajny i ciekawy pomysl z ta funkcja
+- duzy plus za sieci neuronowe, podziwiam
+- ciekawy ten koncowy wykres tsne
+- funkcja z gui swietne chociaz warto sie zastanowic po czym klastruje wam model bo rekomendacje takie wychodza wsm troche losowe ale no i guess ze przy waszej ramce i mozliwosciach ciezko zeby zrobily sie trafne
+- 2 model biznesowy tez super pomysl
