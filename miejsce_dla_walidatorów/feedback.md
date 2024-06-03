@@ -43,3 +43,11 @@ KM3
 - ciekawy ten koncowy wykres tsne
 - funkcja z gui swietne chociaz warto sie zastanowic po czym klastruje wam model bo rekomendacje takie wychodza wsm troche losowe ale no i guess ze przy waszej ramce i mozliwosciach ciezko zeby zrobily sie trafne
 - 2 model biznesowy tez super pomysl
+
+do walidacji po odpaleniu na naszych danych :
+- wyniki otrzymane na zbiorze walidacyjnym odpowiadaja wynikom otrzymanym na zbiorze modelarzy
+- calculate_best_model(scores_df4) -  to cos error mi wyplulo - reduction operation 'argmax' not allowed for this dtype
+- sieci neuronowe - do spr po wyladowaniu - zainstalowac minisom
+- no sie potwierdzilo ze rekomendacje filmow raczej srednio trafne na naszej ramce tez
+- u nas tez drama najlepszym gatunkiem
+- dokladniejsze rzeczy macie i tak w naszej kopii waszego notebooka z km3
