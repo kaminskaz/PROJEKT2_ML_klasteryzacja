@@ -47,7 +47,6 @@ KM3
 do walidacji po odpaleniu na naszych danych :
 - wyniki otrzymane na zbiorze walidacyjnym odpowiadaja wynikom otrzymanym na zbiorze modelarzy
 - calculate_best_model(scores_df4) -  to cos error mi wyplulo - reduction operation 'argmax' not allowed for this dtype
-- sieci neuronowe - do spr po wyladowaniu - zainstalowac minisom
 - no sie potwierdzilo ze rekomendacje filmow raczej srednio trafne na naszej ramce tez
 - u nas tez drama najlepszym gatunkiem
 - dokladniejsze rzeczy macie i tak w naszej kopii waszego notebooka z km3
